@@ -5,14 +5,14 @@ __pycache__/
 
 digital-marketing-456009-d01056efdf1a.json
 
-# Virtual environments
-.venv/
-venv/
-env/
-ENV/
-env.bak/
-*.env/
-*.venv/
+# # Virtual environments
+# .venv/
+# venv/
+# env/
+# ENV/
+# env.bak/
+# *.env/
+# *.venv/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
